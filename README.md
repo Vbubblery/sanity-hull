@@ -1,3 +1,10 @@
+```
+Your site	https://sanity-hull.vercel.app
+Sanity Studio	https://sanity-hull.vercel.app/studio
+Vercel project	https://vercel.com/vbubblery/sanity-hull
+Vercel deployment	https://vercel.com/vbubblery/sanity-hull/32kRzPfBnx9Tt1sybmK8gZCVEKAY
+```
+---
 <p align="center">
 <img src="public/HULL-Logo.svg" align="center" height="100" />
 </p>
